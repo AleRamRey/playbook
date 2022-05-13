@@ -12,6 +12,9 @@
 |`Trello`|6|[Link al repo](https://github.com/AleRamRey/trello-api-rest)|
 
 
-|`Trello JS Fork`|7|[Link al repo]()|
+|`Trello`|6|[Link al repo](https://github.com/AleRamRey/trello)|
+
+
+|`Trello JS Fork`|7|[Link al repo](https://github.com/AleRamRey/trello-1)|
 
 
